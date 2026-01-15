@@ -1,5 +1,5 @@
 # Task-1-Cybersecurity-Foundations-ELEVATELABS
-## Cyber Security Internship – Task 1
+## CYBER SECUIRTY INTERNSHIP – TASK 1
 
 ## Task Title
 Understanding Cyber Security Basics & Attack Surface
